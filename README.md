@@ -1,7 +1,7 @@
-### Hi there 👋
+### SALUT 👋
 
 <p align='Center'>
- Hi! I am <b>Pradipti</b>.<br/>
+ Hiya! I am <b>Pradipti</b>.<br/>
  I am a student of <b>Guru Nanak Institute Of Technology, Kolkata</b>.<br/>
  </p>
  
