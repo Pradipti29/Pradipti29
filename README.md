@@ -57,7 +57,7 @@ My Interests :heart_eyes:<br>
 
 ### Spotify Playing 🎧
 
-<iframe src="https://open.spotify.com/embed/track/3cqPu20DGTGUoZtbJH2Dmi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[<img src="https://open.spotify.com/embed/track/3cqPu20DGTGUoZtbJH2Dmi" alt="Pradipti29 Spotify Playing" width="350" />]
 
 <br/>
 <br/>
