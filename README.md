@@ -64,19 +64,19 @@ My Interests :heart_eyes:<br>
 
 ## Languages :
 
-<img align = 'left' alt = 'Java' width='36px' src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align = 'left' alt = 'Java' width='30px' src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-<img align = 'left' alt = 'C++' width='60px' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img align = 'left' alt = 'C++' width='30px' src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-<img align = 'left' alt = 'C' width='28px' src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align = 'left' alt = 'C' width='30px' src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img align = 'left' alt = 'HTML5' width='36px' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align = 'left' alt = 'HTML5' width='30px' src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img align = 'left' alt = 'CSS3' width='36px' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align = 'left' alt = 'CSS3' width='30px' src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img align = 'left' alt = 'Javascript' width='70px' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align = 'left' alt = 'Javascript' width='30px' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-<img align = 'left' alt = 'Python' width='60px' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img align = 'left' alt = 'Python' width='30px' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br/>
 <br/>
