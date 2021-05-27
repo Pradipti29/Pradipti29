@@ -142,6 +142,17 @@ My Interests :heart_eyes:<br>
 <br/>
 
 
+## My Github Statistics:
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradipti29&theme=tokyonight&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pradipti29&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipti29)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Pradipti29&&style=flat-square" align="center" />
+</div>
 
 
 <!--
