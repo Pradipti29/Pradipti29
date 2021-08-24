@@ -57,7 +57,7 @@ My Interests :heart_eyes:<br>
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Pradipti29 Spotify Playing" width="350" />](https://open.spotify.com/playlist/1NRHyMRzon3IsUTLy4Bodb?si=8b1e4bd203c14a2b)
+[<img src="https://open.spotify.com/playlist/3ACI2VVjlV8vsv4oAUIJSy?si=yk27jWArTqeunmgjOyecQQ&utm_source=whatsapp&dl_branch=1" alt="Pradipti29 Spotify Playing" width="350" />](https://open.spotify.com/playlist/3ACI2VVjlV8vsv4oAUIJSy?si=yk27jWArTqeunmgjOyecQQ&utm_source=whatsapp&dl_branch=1)
 
 <br/>
 <br/>
