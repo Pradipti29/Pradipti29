@@ -2,14 +2,12 @@
 
 <p align='Center'>
  Hiya! I am <b>Pradipti</b>.<br/>
- I am a student of <b>Guru Nanak Institute Of Technology, Kolkata</b>.<br/>
- </p>
  
-<p> 🌱 I’m currently studying with <b>Computer Science and Engineering</b></p>
+<p> 🌱 I’m currently working as Associate Solution Engineer at Labvantage</b></p>
 
 <p> 👯 I’m looking to <b>collaborate with other content creators</b></p>
 
-<p> 🥅 2021 Goals: <b>Contribute more to Open Source projects</b></p>
+<p> 🥅 2025 Goals: <b>Contribute more to Open Source projects</b></p>
 
 <p>📫 How to reach me:innocent:</p>
 
@@ -19,7 +17,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp
   
-  <a href="https://www.linkedin.com/in/pradipti-sah-b503ba184/">
+  <a href="https://www.linkedin.com/in/pradipti-sah/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp
   
@@ -55,12 +53,6 @@ My Interests :heart_eyes:<br>
 <br/>
 <br/>
 
-### Spotify Playing 🎧
-
-[<img src="https://open.spotify.com/playlist/3ACI2VVjlV8vsv4oAUIJSy?si=yk27jWArTqeunmgjOyecQQ&utm_source=whatsapp&dl_branch=1" alt="Pradipti29 Spotify Playing" width="350" />](https://open.spotify.com/playlist/3ACI2VVjlV8vsv4oAUIJSy?si=yk27jWArTqeunmgjOyecQQ&utm_source=whatsapp&dl_branch=1)
-
-<br/>
-<br/>
 
 ## Languages :
 
@@ -76,23 +68,12 @@ My Interests :heart_eyes:<br>
 
 <img align = 'left' alt = 'Javascript' width='60px' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-<img align = 'left' alt = 'Python' width='50px' src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <br/>
 <br/>
 
 ## Database :
 
 <img align = 'left' alt = 'MYSQL' width='40px' src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br/>
-<br/>
-
-## Frameworks :
-
-<img align = 'left' alt = 'Git' width='40px' src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img align = 'left' alt = 'JUPYTER' width='60px' src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
 
 <br/>
 <br/>
@@ -109,8 +90,6 @@ My Interests :heart_eyes:<br>
 <img align = 'left' alt = 'VISUIAL STUDIO CODE' width='40px' src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 <img align = 'left' alt = 'VISUIAL STUDIO 2019' width='40px' src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-
-<img align = 'left' alt = 'PYCHARM' width='40px' src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 
 <img align = 'left' alt = 'WORDPRESS' width='40px' src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
@@ -129,12 +108,6 @@ My Interests :heart_eyes:<br>
 
 <br/>
 <br/>
-
-## Design :
-
-<img align = 'left' alt = 'CANVA' width='40px' src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
-
-
 
 
 <br/>
