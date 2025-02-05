@@ -47,8 +47,6 @@ My Interests :heart_eyes:<br>
 
 - Web Development
 - Software Development
-- Machine Learning
-- Competitive Coding 
 
 <br/>
 <br/>
